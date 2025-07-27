@@ -1,5 +1,5 @@
 {
-    "name": "sahib/user-auth-service",
+    "name": "sahibsinghbanga/user-auth-service",
     "description": "Auth service for users",
     "require": {
         "laravel/framework": "^8.51"
