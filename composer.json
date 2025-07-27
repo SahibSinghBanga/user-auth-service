@@ -1,0 +1,18 @@
+{
+    "name": "sahib/user-auth-service",
+    "description": "Auth service for users",
+    "require": {
+        "laravel/framework": "^8.51"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sahib\\UserAuthService\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sahibsingh27aug",
+            "email": "sahibsinghbanga1@gmail.com"
+        }
+    ]
+}
